@@ -63,3 +63,25 @@ pip install -r requirements.txt
 ### 3. 运行图形化界面
 
 python firedetect.py
+
+## 📸 效果展示
+
+### 图形化界面主窗口
+
+![主界面](screenshots/detection_main.png)
+
+### 图片检测结果
+
+![图片检测](screenshots/detection_image.png)
+
+### 视频检测结果
+
+![视频检测](screenshots/detection_video.png)
+
+### 模型结构图
+
+![模型结构](screenshots/model_architecture.png)
+
+### 消融实验结果
+
+![消融实验](screenshots/ablation_results.png)
